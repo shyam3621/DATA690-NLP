@@ -1,0 +1,50 @@
+/* Container for the entire chat area */
+div.block-container.st-emotion-cache-11kmii3.ea3mdgi5 {
+    margin-top: 10px;
+    background-color: #FFFFFF; /* Light gray background */
+    padding: 20px; /* Add some padding */
+    border-radius: 30px 30px 0 0; /* Add rounded corners */
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+    max-height: 1500px; /* Set a maximum height for scrolling */
+    height: 100vh;
+    width: 70%;
+}
+
+
+/* Ai's chat message */
+div.stChatMessage.st-emotion-cache-4oy321.eeusbqq4 {
+    display: flex;
+    margin: 5px;
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    background: linear-gradient(135deg, #FEB692 0%, #EA5455 100%);
+
+    border-radius: 20px;
+    
+}
+
+/* user's chat message */
+div.stChatMessage.st-emotion-cache-1c7y2kd.eeusbqq4{
+    display: flex;
+    margin: 5px;
+    
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    background: linear-gradient(135deg, rgb(0, 178, 255) 0%, rgb(0, 106, 255) 100%); 
+    color: white;
+    border-radius: 20px;
+    
+}
+
+
+
+
+div.st-emotion-cache-139wi93.ea3mdgi2{
+	background: #E2CAC8;
+}
+
+
